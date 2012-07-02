@@ -7,3 +7,5 @@ The cycle of practice is:
 3. This is repeated at a normal breathing rate. It is advisable to have an inhale : exhale ratio of 1 : 2. Changing nostril after exhaling is considered wrong. 
 
 Many health benefits are claimed for this pranayama.
+
+-- from http://en.wikipedia.org/wiki/Anuloma_pranayama
